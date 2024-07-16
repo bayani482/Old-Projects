@@ -1,0 +1,32 @@
+import os
+from tkinter import *
+
+def rename_Folder(path):
+	i = 1
+	for filename in os.listdir(path):
+		serialNumber = os.path.basename(path)
+		if i < 10:
+			destination = os.path.dirname(path)+"\\"+ serialNumber +"\\" + os.path.basename(path)+"-0" + str(i) + ".jpg"
+		else:
+			destination = os.path.dirname(path)+"\\"+ serialNumber +"\\" + os.path.basename(path)+"-" + str(i) + ".jpg"
+		os.rename(os.path.dirname(path)+"\\"+ os.path.basename(path)+"\\"+ filename , destination)
+		i += 1
+	print('finished renaming')
+
+def bulkRenameButton():
+    directory = userDirectory.get()
+    path = directory
+    rename_Folder(path)
+# maincode #C:\Users\Hero\Desktop\rename\CND71646G1
+#tk.geometry("600x400")
+path =''
+i = 0
+tk = Tk()
+userDirectoryLabel = Label(tk, text = "Directory:")
+userDirectoryLabel.grid(column = 0, row = 0)
+userDirectory = Entry(tk, width = 75)
+userDirectory.grid(column = 1, row = 0)
+button1= Button(tk, text = "Rename Files", command = bulkRenameButton)
+button1.grid(column = 1, row = 1)
+
+tk.mainloop()

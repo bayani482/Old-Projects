@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1>FFS Template Generator</h1>
+    <form>
+        <div>
+            <label for="listing_title_label">Listing Title:</label>
+            <input type="text" id="user_input_title" name="listing_title" maxlength=80 size="80" placeholder="80 Characters Max">
+        </div>
+        <div>
+            <label for="image_url_label">Item Description photo URL:</label>
+            <input type="text" id="user_input_image_url" name="image_1" placeholder="Image URL">
+        </div>
+        <div>
+            <label for="item description title_label">Item Description icons</label>
+        </div>
+        <div class="icons_rows">
+            <div class='row_1'></div>
+            <select name="menu_icons_1" id="icons_1">
+                <option value="none" selected disabled hidden>Select CPU</option>
+                <option value="CPU1">AMD</option>
+                <option value="CPU2">AMD A8</option>
+                <option value="CPU3">AMD A9</option>
+                <option value="CPU4">AMD A10</option>
+                <option value="CPU5">AMD Ryzen 3</option>
+                <option value="CPU6">AMD Ryzen 5</option>
+                <option value="CPU7">Celeron</option>
+                <option value="CPU8">Pentium</option>
+                <option value="CPU9">Core 2 duo</option>
+                <option value="CPU10">m2</option>
+                <option value="CPU11">i3</option>
+                <option value="CPU12">i5</option>
+                <option value="CPU13">i7</option>
+                <option value="CPU14">XEON</option>
+            </select>
+            <select name="menu_icons_2" id="icons_2">
+                <option value="none" selected disabled hidden>Select Ram</option>
+                <option value="ram1">2 GB</option>
+                <option value="ram2">4 GB</option>
+                <option value="ram3">6 GB</option>
+                <option value="ram4">8 GB</option>
+                <option value="ram5">12 GB</option>
+                <option value="ram6">16 GB</option>
+                <option value="ram7">32 GB</option>
+                <option value="ram8">64 GB</option>
+                <option value="ram9">128 GB</option>
+            </select>
+            <select name="menu_icons_3" id="icons_3">
+                <option value="none" selected disabled hidden> Select Storage</option>
+                <option value="storage1">40 GB HDD</option>
+                <option value="storage2">80 GB HDD</option>
+                <option value="storage3">160 GB HDD</option>
+                <option value="storage4">250 GB HDD</option>
+                <option value="storage5">320 GB HDD</option>
+                <option value="storage6">500 GB HDD</option>
+                <option value="storage7">640 GB HDD</option>
+                <option value="storage8">750 GB HDD</option>
+                <option value="storage9">1 TB HDD</option>
+                <option value="storage10">2 TB HDD</option>
+                <option value="storage11">32 GB SSD</option>
+                <option value="storage12">64 GB SSD</option>
+                <option value="storage13">120 GB SSD</option>
+                <option value="storage14">128 GB SSD</option>
+                <option value="storage15">160 GB SSD</option>
+                <option value="storage16">180 GB SSD</option>
+                <option value="storage17">240 GB SSD</option>
+                <option value="storage18">256 GB SSD</option>
+                <option value="storage19">500 GB SSD</option>
+                <option value="storage20">512 GB SSD</option>
+            </select>
+            <select name="menu_icons_4" id="icons_4">
+                <option value="none" selected disabled hidden>Select OS</option>
+                <option value="os1">Windows 10</option>
+            </select>
+        </div>
+        <div class='row_2'>
+
+            <select name="menu_icons_5" id="icons_5">
+                <option value="none" selected disabled hidden>Select MISC icon 1</option>
+                <option value="misc1">90 Day Warranty</option>
+                <option value="misc2">WiFi</option>
+                <option value="misc3">DVD RW</option>
+                <option value="misc4">100% Satisfaction</option>
+                <option value="misc5">Certified Refurbished</option>
+                <option value="misc6">Great for school</option>
+            </select>
+            <select name="menu_icons_6" id="icons_6">
+                <option value="none" selected disabled hidden>Select MISC icon 2</option>
+                <option value="misc1">90 Day Warranty</option>
+                <option value="misc2">WiFi</option>
+                <option value="misc3">DVD RW</option>
+                <option value="misc4">100% Satisfaction</option>
+                <option value="misc5">Certified Refurbished</option>
+                <option value="misc6">Great for school</option>
+            </select>
+            <select name="menu_icons_7" id="icons_7">
+                <option value="none" selected disabled hidden>Select MISC icon 3</option>
+                <option value="misc1">90 Day Warranty</option>
+                <option value="misc2">WiFi</option>
+                <option value="misc3">DVD RW</option>
+                <option value="misc4">100% Satisfaction</option>
+                <option value="misc5">Certified Refurbished</option>
+                <option value="misc6">Great for school</option>
+            </select>
+            <select name="menu_icons_8" id="icons_8">
+                <option value="none" selected disabled hidden>Select MISC icon 4</option>
+                <option value="misc1">90 Day Warranty</option>
+                <option value="misc2">WiFi</option>
+                <option value="misc3">DVD RW</option>
+                <option value="misc4">100% Satisfaction</option>
+                <option value="misc5">Certified Refurbished</option>
+                <option value="misc6">Great for school</option>
+            </select>
+        </div>
+        </div>
+        <div>
+            <label class="product_specification"id="specifiction_label">Product Specification</label>
+        </div>
+        <div class="specications">
+            <input type="text" id="specication_1" name="make&model" placeholder="Make & Model">
+            <input type="text" id="specication_2" name="Formfactor" placeholder="Form Factor">
+            <input type="text" id="specication_3" name="cpu" placeholder="Processor">            
+            <input type="text" id="specication_4" name="ram" placeholder="RAM">
+            <input type="text" id="specication_5" name="storage" placeholder="Storage">
+            <input type="text" id="specication_6" name="OS" placeholder="Operating System">
+            <input type="text" id="specication_7" name="ports" placeholder="Ports">
+            <input type="text" id="specication_8" name="packaging" placeholder="1x power cable"value="1x power cable">
+            <input type="text" id="specication_9" name="warrenty" placeholder="90 Day Comprehensive Coverage" value="90 Day Comprehensive Coverage">
+        </div>
+        <div class="last_row">
+            <input type="button" value="Submit" onclick="generate_html_code()">
+        </div>
+    </form>
+</body>
+
+</html>

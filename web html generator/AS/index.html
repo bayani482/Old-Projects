@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1>AS Template Generator</h1>
+    <div class="form">
+        <div>
+            <label for="listing_title">Listing Title:</label>
+            <input type="text" id="listing_title" name="listing_title" maxlength=80 size="80" placeholder="80 Characters Max">
+        </div>
+        <div>
+            <input type="text" id="image_1" name="image_1" placeholder="Image 1 URL">
+            <input type="text" id="image_2" name="image_2" placeholder="Image 2 URL">
+        </div>
+        <div>
+            <label for="item_description title">Item Description Custom Rows</label>
+        </div>
+        <div>
+            <label class="row_4"for="custom_row_title">Custom row title</label>
+            <label class="row_4"for="custom_row_description">Custom row description</label>
+        </div>
+        <div class="row_custom_class" >
+            <div id="row_custom_header_id" class="row_header_column">
+                <input type="text" id="custom_row_title" name="custom row title" placeholder="Row header">
+            </div>
+            <div id="row_custom_description_id" class="row_description_column">
+                <input type="text" id="custom_row_description" name="custom row description" placeholder="Row item description">
+            </div>
+            <div>
+                <button type="add_custom_row" onclick="addFields()">Add New Custom Row</button>
+            </div>
+        </div>
+        <div class="last_row">
+            <button type="generate_html_code">Generate Code</button>
+        </div>
+    </div>
+</body>
+
+</html>

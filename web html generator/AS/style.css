@@ -1,0 +1,17 @@
+.form{
+    display: grid;
+    grid-column: auto;
+    width: 100%;
+    justify-content: center;
+    grid-gap: 25px;
+}
+
+.row_custom_class{
+    grid-column: 1fr 1fr 1fr;
+}
+.row_column{
+    grid-column-end: 2;
+}
+.row_description_column{
+    grid-column-end: 2;
+}

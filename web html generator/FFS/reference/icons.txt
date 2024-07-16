@@ -1,0 +1,155 @@
+AMD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/022.png
+ 
+AMD A8:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/29.png
+ 
+AMD A9:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1640300784/Description%20Icon/AMD_A9.png
+ 
+AMD A10:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1640806851/Description%20Icon/AMD_A10.png
+ 
+AMD Ryzen 3:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1626709892/Description%20Icon/AMD_Ryzen_3.jpg
+ 
+AMD Ryzen 5:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1596501672/Description%20Icon/ryzen5_wb3sdp.png
+ 
+Atom:
+https://res.cloudinary.com/reusetek/image/upload/v1555610705/intel_atom_qj22d7.png
+ 
+
+Celeron:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1587491114/Description%20Icon/intelC_gpanuc.png
+
+Pentium:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1597441619/Description%20Icon/Intel%20Pentium.png
+ 
+Core 2 Duo:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/023.png
+ 
+m5:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1647619848/Description%20Icon/Intel_m5.jpg
+ 
+i3:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/new-brand1.png
+ 
+i5:                          	
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/01.png
+ 
+i7:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/02.png
+ 
+Xeon:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1586363188/Description%20Icon/intelxeon_pwq71v.png
+2 GB RAM:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/07.png
+
+4 GB RAM:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/new-brand3.png
+ 
+6 GB RAM:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1615405813/Description%20Icon/6_GB_RAM.png
+ 
+8 GB RAM:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/8gb.png
+ 
+12 GB RAM:
+https://res.cloudinary.com/reusetek/image/upload/v1555695579/12gbram_gjgryv.png
+ 
+16 GB RAM:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/014.png
+ 
+32 GB RAM:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/031.png
+ 
+64 GB RAM:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1612983294/Description%20Icon/64_GB_RAM.png
+ 
+128 GB RAM:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1610399778/Description%20Icon/128_GB_RAM_ugxjjf.png
+
+24 GB HDD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1573579057/Description%20Icon/24%20GB%20HDD.png
+ 
+80 GB HDD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1614206473/Description%20Icon/80_GB_HDD.png
+ 
+160 GB HDD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/013.png
+ 
+250 GB HDD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/010.png
+ 
+320 GB HDD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/03.png
+ 
+500 GB HDD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/new-brand2.png
+ 
+640 GB HDD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/016.png
+750 GB HDD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/011.png
+ 
+1 TB HDD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/05.png
+
+2 TB HDD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/tb-2.png
+ 
+4 TB HDD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1610394103/Description%20Icon/4_TB_HDD_osaz7y.png
+ 
+32 GB SSD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1572471153/Description%20Icon/32gb_hd_do7q7m.png
+ 
+64 GB SSD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1572471153/Description%20Icon/64gb_hd_rmgttb.png
+ 
+120 GB SSD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1639767956/Description%20Icon/120_GB_SSD.png
+ 
+128 GB SSD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/09.png
+160 GB SSD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1639787961/Description%20Icon/160_GB_SSD.png
+ 
+180 GB SSD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1639788230/Description%20Icon/180_GB_SSD.png
+
+240 GB SSD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1559075241/Description%20Icon/SSD240_dkr24b.png
+
+256 GB SSD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1629330337/Description%20Icon/SSD_256_ax9ijm.png
+ 
+500 GB SSD:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1629330337/Description%20Icon/500%20GB%20SSD.png
+ 
+512 GB SSD:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/030.png
+ 
+100% SATISFACTION:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1574816978/Description%20Icon/100_e6fwiv.png
+ 
+
+WiFi:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/brand10.png
+ 
+DVD RW:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/new-brand9.png
+ 
+90 Day Warranty:
+https://res.cloudinary.com/dayxdwfmz/image/upload/v1594663702/Description%20Icon/90_fbeaag.png
+
+Windows 10:
+https://www.onelesszero.com/estore/Frankie'sFastShip/new-listing/images/new-brand4.png
+ 
+C Grade Desktop Condition Description:
+Our desktops go through an INTENSIVE 41-Point Inspection. Refurbished by certified professionals, they come with a 90 day warranty. This is a C grade unit, which means it may be heavily scratched, scuffed and come with larger dings than from regular wear and tear, but they will not affect the functionality of the product. These pictures are a representation of what you will receive. Tested for Key Functions/ R2 Ready for Resale
+
+R2 Verbiage:
+B Grade: F5, C5; Non-Data
+C Grade: F3, C3; Non-Data
